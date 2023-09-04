@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T06:54:50.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ssJADZcwo35jQR4HOEth" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T06:57:06.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="LV4zOl0xlz82qUk00Jd_" version="21.6.5" type="github">
   <diagram name="第 1 页" id="PEThxaSrOqWPPae25u2w">
     <mxGraphModel dx="8287" dy="1073" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1105,7 +1105,7 @@
           <mxGeometry x="-1295.5" y="2586" width="114" height="35" as="geometry" />
         </mxCell>
         <mxCell id="IvwNW1YLuRxH3IsWVG2M-25" value="Job (Tool)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-1300" y="2770" width="114" height="35" as="geometry" />
+          <mxGeometry x="-1295" y="2831" width="114" height="35" as="geometry" />
         </mxCell>
         <mxCell id="IvwNW1YLuRxH3IsWVG2M-26" value="local" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="-1132" y="2648" width="114" height="35" as="geometry" />
@@ -1147,7 +1147,7 @@
           <mxGeometry x="-1295" y="2647" width="114" height="35" as="geometry" />
         </mxCell>
         <mxCell id="IvwNW1YLuRxH3IsWVG2M-42" value="Job Status" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-1300" y="2827" width="114" height="35" as="geometry" />
+          <mxGeometry x="-1295.5" y="2882" width="114" height="35" as="geometry" />
         </mxCell>
         <mxCell id="IvwNW1YLuRxH3IsWVG2M-45" value="Preprocess （Tool）" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-1458" y="2586" width="114" height="35" as="geometry" />
@@ -1161,7 +1161,7 @@
         <mxCell id="IvwNW1YLuRxH3IsWVG2M-49" value="Sub Log" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-1295" y="2525" width="114" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="IvwNW1YLuRxH3IsWVG2M-50" value="Tool Integration" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="IvwNW1YLuRxH3IsWVG2M-50" value="Tool Integration" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-1295" y="2709" width="114" height="35" as="geometry" />
         </mxCell>
         <mxCell id="IvwNW1YLuRxH3IsWVG2M-51" value="Dependecy Tree" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
@@ -2113,6 +2113,9 @@
         </mxCell>
         <mxCell id="fvYy81R1IWxQRwWghxA0-173" value="输出" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="1453" y="4511" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_cS1zsKV13-_Mt1ryNzw-1" value="Tool Inteface" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1295.5" y="2770" width="114" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
